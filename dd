@@ -1,4 +1,4 @@
-local LibraryURL = "https://github.com/bnzshi803-ctrl/zHE.git"
+local LibraryURL = "https://github.com/bnzshi803-ctrl/zHE/blob/main/dd"
 
 
 if not Susano or type(Susano) ~= "table" or type(Susano.HttpGet) ~= "function" then
